@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: white;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+label {
+    font-size: 16px;
+}
+
+input {
+    width: 120px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 3px;
+    cursor: pointer;
+}
+
+select {
+    padding: 5px;
+    margin-left: 5px;
+}
+
+#numberList {
+    width: 500px;
+    min-height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.number-row {
+    margin-bottom: 8px;
+}
+
+.even {
+    color: green;
+    font-weight: bold;
+}
+
+.odd {
+    color: blue;
+    font-weight: bold;
+}
+
+.remove-btn {
+    margin-left: 10px;
+}
+
+.edit-btn {
+    margin-left: 5px;
+}
+
+#result {
+    font-weight: bold;
+    margin-top: 15px;
+}
